@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Build outputs
+*.o
+a.out
+
+# Editors
+.vscode/
